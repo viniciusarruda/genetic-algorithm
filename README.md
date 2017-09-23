@@ -9,7 +9,7 @@
 		|- lena_polygon.py: Code to draw using polygons.
 		|- lena.png: Target image.
 	|- Function Minimization
-		|- phrase.py: Minimize a function targeting a text.
+		|- phrase.py: Minimize a function that targets a text.
 		|- minimizing_function.py: Minimizes the function -e^(-((x-1.5)^2 + (y+1)^2)) - e^(-(x^2 + y^2)).
 	|- TSP
 		|- tsp.py: Solves the TSP.
